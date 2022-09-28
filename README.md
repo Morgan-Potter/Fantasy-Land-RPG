@@ -4,8 +4,6 @@ You should run the rpg.py file to start the game.
 
 Edited By Morgan Potter
 
-(sorry about the bad git logs, most of them was just me moving the code between my two computers)
-
 Commented 'rpg.py'
 
 Added the 'Scout' class. The class has extremely low health (75), but extremely high attack (Like in tf2). This makes him somewhat of a glass cannon, dying to strong characters, but easily taking out tank characters.
